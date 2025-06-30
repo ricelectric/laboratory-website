@@ -115,14 +115,14 @@ footer {
   bottom: 20px;
   width: 24px;
   height: 24px;
-  color: black;
-  border: 2px solid black;
+  color: white;
+  border: 2px solid white;
   transition: 0.3s;
   cursor: pointer;
 }
 #arrow_upward:hover {
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: white;
 }
 
 /* google map */
