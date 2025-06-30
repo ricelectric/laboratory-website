@@ -164,34 +164,6 @@ footer {
   width: 100%;
 }
 
-/* breadcrumbs */
-/* .breadcrumbs {
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px 20px 60px;
-}
-.breadcrumbs ol {
-  display: flex;
-  align-items: center;
-  list-style: none;
-  gap: 4px;
-}
-.breadcrumbs ol li a {
-  color: black;
-} */
-
-/* scroll effect */ 
-/* .scroll_effect {
-  transition: 0.8s;
-  transform: translateY(40px);
-  opacity: 0;
-}
-.scroll_effect.appear {
-  transform: translateY(0);
-  opacity: 1;
-} */
-
 @media only screen and (max-width: 900px) {
   html {
     font-size: 80%;
