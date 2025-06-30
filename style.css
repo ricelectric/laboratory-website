@@ -119,21 +119,6 @@ footer {
   border-top: 1px solid black;
 }
 
-.image {
-  width: 100%;
-  display: block;
-  aspect-ratio: 16/9;
-  object-fit: cover;
-  box-sizing: border-box;
-  border: 2px solid black;
-}
-.image_container {
-  width: 100%;
-  max-width: 400px;
-  box-sizing: border-box;
-  padding: 20px;
-}
-
 /* list */
 .list {
   border-bottom: 1px solid black;
