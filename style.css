@@ -164,6 +164,17 @@ footer {
   width: 100%;
 }
 
+/* scroll effect */ 
+.scroll_effect {
+  transition: 0.8s;
+  transform: translateY(40px);
+  opacity: 0;
+}
+.scroll_effect.appear {
+  transform: translateY(0);
+  opacity: 1;
+}
+
 @media only screen and (max-width: 900px) {
   html {
     font-size: 80%;
