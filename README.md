@@ -4,7 +4,7 @@ This is a simple and flexible template for a laboratory website. More informatio
 
 ![index.png](https://github.com/ricelectric/laboratory-website/blob/main/images/index.png)
 ![about.png](https://github.com/ricelectric/laboratory-website/blob/main/images/about.png)
-![research.png](https://github.com/ricelectric/laboratory-website/blob/main/images/reseach.png)
+![research.png](https://github.com/ricelectric/laboratory-website/blob/main/images/research.png)
 ![news.png](https://github.com/ricelectric/laboratory-website/blob/main/images/news.png)
 ![members.png](https://github.com/ricelectric/laboratory-website/blob/main/images/members.png)
 ![access.png](https://github.com/ricelectric/laboratory-website/blob/main/images/access.png)
